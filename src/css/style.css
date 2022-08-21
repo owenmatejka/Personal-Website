@@ -1,0 +1,27 @@
+/*
+CSS Reset
+*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*
+Top Bar
+*/
+#topbar {
+    background: maroon;
+    color: white;
+    overflow: auto;
+}
+
+#topbar h1 {
+    padding: 20px;
+}
+
+#tempinfo {
+    text-align: center;
+    padding-top: 100px;
+}
